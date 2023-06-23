@@ -1,2 +1,10 @@
 # CryptoHack_Solutions
 Solution for CryptoHack courses
+
+Requirements:
+	gmpy2==2.1.5
+	pwntools==4.9.0
+	pycryptodome==3.15.0
+	Requests==2.31.0
+	sympy==1.10.1
+	sympy==1.11.1
